@@ -1,0 +1,508 @@
+ <table border="2px" id="lusReport1" class="table table-hover table-bordered text-center">
+            <thead style="position: sticky;top: 0;z-index:9;">
+              <tr>
+                <th colspan="20" class="tbl_header"><h4><b>Area Irrigated (Source Wise) in Each District of Madhya Pradesh State/UT for The Year 2018-2019 (Hectare)</b></h4></th>
+              </tr>
+              <tr>
+                <th rowspan="3" class="tbl_header"><b>S.No.</b></th>
+                  <th rowspan="3" class="tbl_header"><b>District</b></th>
+                                        <th colspan="9" class="wrapWords_td tbl_header">Net Irrigated Area</th>
+                                            <th colspan="9" class="wrapWords_td tbl_header">Gross Irrigated Area</th>
+                      
+              </tr>
+              <tr>
+
+                                        <th colspan="3" class="wrapWords_td tbl_header">
+                        Canal                                               </th>
+                                                <th rowspan="2" class="wrapWords_td tbl_header">
+                        Tank                                               </th>
+                                                <th colspan="3" class="wrapWords_td tbl_header">
+                        Well                                               </th>
+                                                <th rowspan="2" class="wrapWords_td tbl_header">
+                        Other Source                                               </th>
+                                                <th rowspan="2" class="wrapWords_td tbl_header">
+                        <b>Total (5 + 6 + 9 + 10)</b>                                               </th>
+                                                <th colspan="3" class="wrapWords_td tbl_header">
+                        Canal                                               </th>
+                                                <th rowspan="2" class="wrapWords_td tbl_header">
+                        Tank                                               </th>
+                                                <th colspan="3" class="wrapWords_td tbl_header">
+                        Well                                               </th>
+                                                <th rowspan="2" class="wrapWords_td tbl_header">
+                        Other Source                                               </th>
+                                                <th rowspan="2" class="wrapWords_td tbl_header">
+                        <b>Total (14 + 15 + 18 + 19)</b>                                               </th>
+                        
+
+
+              </tr>
+
+
+              <tr>
+                                      <th class="wrapWords_td tbl_header">
+                        Government                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        Private                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        <b>Total(3 To 4)</b>                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        Tubewell                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        Other Well                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        <b>Total(7 To 8)</b>                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        Government                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        Private                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        <b>Total(12 To 13)</b>                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        Tubewell                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        Other Well                      </th>
+                                            <th class="wrapWords_td tbl_header">
+                        <b>Total(16 To 17)</b>                      </th>
+                      
+              </tr>
+
+
+              <tr>
+                <th class="tbl_header">1</th>
+                <th class="tbl_header">2</th>
+                <th class="tbl_header"><b>3</b></th><th class="tbl_header"><b>4</b></th><th class="tbl_header"><b>5</b></th><th class="tbl_header"><b>6</b></th><th class="tbl_header"><b>7</b></th><th class="tbl_header"><b>8</b></th><th class="tbl_header"><b>9</b></th><th class="tbl_header"><b>10</b></th><th class="tbl_header"><b>11</b></th><th class="tbl_header"><b>12</b></th><th class="tbl_header"><b>13</b></th><th class="tbl_header"><b>14</b></th><th class="tbl_header"><b>15</b></th><th class="tbl_header"><b>16</b></th><th class="tbl_header"><b>17</b></th><th class="tbl_header"><b>18</b></th><th class="tbl_header"><b>19</b></th><th class="tbl_header"><b>20</b></th>              </tr>
+
+            </thead>
+            <tbody>
+
+                                <tr>
+                    <td class="stickyCol1">1</td>
+                      <td class="text-left stickyCol2">Agar malwa</td>
+
+                      <td>4981</td><td>-</td><td>4981</td><td>2596</td><td>35665</td><td>70575</td><td>106240</td><td>32593</td><td>146410</td><td>4981</td><td>-</td><td>4981</td><td>2596</td><td>35665</td><td>79733</td><td>115398</td><td>32593</td><td>155568</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">2</td>
+                      <td class="text-left stickyCol2">Alirajpur</td>
+
+                      <td>2033</td><td>-</td><td>2033</td><td>4766</td><td>2851</td><td>17808</td><td>20659</td><td>9725</td><td>37183</td><td>2033</td><td>-</td><td>2033</td><td>4766</td><td>2878</td><td>18115</td><td>20993</td><td>9725</td><td>37517</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">3</td>
+                      <td class="text-left stickyCol2">Anuppur</td>
+
+                      <td>557</td><td>-</td><td>557</td><td>66</td><td>2353</td><td>1613</td><td>3966</td><td>1611</td><td>6200</td><td>557</td><td>-</td><td>557</td><td>66</td><td>2353</td><td>1613</td><td>3966</td><td>1611</td><td>6200</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">4</td>
+                      <td class="text-left stickyCol2">Ashoknagar</td>
+
+                      <td>11361</td><td>-</td><td>11361</td><td>7070</td><td>167338</td><td>33675</td><td>201013</td><td>42800</td><td>262244</td><td>11361</td><td>-</td><td>11361</td><td>7070</td><td>167338</td><td>33675</td><td>201013</td><td>42800</td><td>262244</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">5</td>
+                      <td class="text-left stickyCol2">Balaghat</td>
+
+                      <td>82336</td><td>-</td><td>82336</td><td>20646</td><td>7923</td><td>19977</td><td>27900</td><td>12269</td><td>143151</td><td>98852</td><td>-</td><td>98852</td><td>23338</td><td>11971</td><td>27219</td><td>39190</td><td>12269</td><td>173649</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">6</td>
+                      <td class="text-left stickyCol2">Barwani</td>
+
+                      <td>18484</td><td>-</td><td>18484</td><td>1705</td><td>40709</td><td>70324</td><td>111033</td><td>40384</td><td>171606</td><td>18484</td><td>-</td><td>18484</td><td>1705</td><td>40709</td><td>70324</td><td>111033</td><td>40384</td><td>171606</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">7</td>
+                      <td class="text-left stickyCol2">Betul</td>
+
+                      <td>21082</td><td>-</td><td>21082</td><td>10162</td><td>62395</td><td>96776</td><td>159171</td><td>21680</td><td>212095</td><td>21082</td><td>-</td><td>21082</td><td>10162</td><td>62395</td><td>96776</td><td>159171</td><td>21680</td><td>212095</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">8</td>
+                      <td class="text-left stickyCol2">Bhind</td>
+
+                      <td>76738</td><td>-</td><td>76738</td><td>1271</td><td>129218</td><td>52427</td><td>181645</td><td>382</td><td>260036</td><td>83658</td><td>-</td><td>83658</td><td>1271</td><td>137685</td><td>56279</td><td>193964</td><td>382</td><td>279275</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">9</td>
+                      <td class="text-left stickyCol2">Bhopal</td>
+
+                      <td>12450</td><td>-</td><td>12450</td><td>3940</td><td>63380</td><td>32400</td><td>95780</td><td>29463</td><td>141633</td><td>12450</td><td>-</td><td>12450</td><td>3940</td><td>63380</td><td>32400</td><td>95780</td><td>29463</td><td>141633</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">10</td>
+                      <td class="text-left stickyCol2">Burhanpur</td>
+
+                      <td>852</td><td>-</td><td>852</td><td>304</td><td>33137</td><td>32688</td><td>65825</td><td>4420</td><td>71401</td><td>852</td><td>-</td><td>852</td><td>304</td><td>47560</td><td>32688</td><td>80248</td><td>4420</td><td>85824</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">11</td>
+                      <td class="text-left stickyCol2">Chhatarpur</td>
+
+                      <td>23846</td><td>-</td><td>23846</td><td>3481</td><td>83683</td><td>214035</td><td>297718</td><td>13480</td><td>338525</td><td>23846</td><td>-</td><td>23846</td><td>3481</td><td>83683</td><td>214035</td><td>297718</td><td>13480</td><td>338525</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">12</td>
+                      <td class="text-left stickyCol2">Chhindwara</td>
+
+                      <td>25086</td><td>-</td><td>25086</td><td>4635</td><td>50639</td><td>138341</td><td>188980</td><td>9186</td><td>227887</td><td>25086</td><td>-</td><td>25086</td><td>4635</td><td>50639</td><td>138341</td><td>188980</td><td>9186</td><td>227887</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">13</td>
+                      <td class="text-left stickyCol2">Damoh</td>
+
+                      <td>23035</td><td>-</td><td>23035</td><td>10690</td><td>60685</td><td>72900</td><td>133585</td><td>84643</td><td>251953</td><td>23035</td><td>-</td><td>23035</td><td>10690</td><td>60685</td><td>77049</td><td>137734</td><td>84643</td><td>256102</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">14</td>
+                      <td class="text-left stickyCol2">Datia</td>
+
+                      <td>161143</td><td>-</td><td>161143</td><td>-</td><td>46206</td><td>25012</td><td>71218</td><td>41</td><td>232402</td><td>161143</td><td>-</td><td>161143</td><td>-</td><td>52418</td><td>25984</td><td>78402</td><td>41</td><td>239586</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">15</td>
+                      <td class="text-left stickyCol2">Dewas</td>
+
+                      <td>12516</td><td>-</td><td>12516</td><td>14851</td><td>188705</td><td>126762</td><td>315467</td><td>17973</td><td>360807</td><td>12516</td><td>-</td><td>12516</td><td>14851</td><td>188705</td><td>126762</td><td>315467</td><td>17973</td><td>360807</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">16</td>
+                      <td class="text-left stickyCol2">Dhar</td>
+
+                      <td>38013</td><td>-</td><td>38013</td><td>32222</td><td>195203</td><td>106441</td><td>301644</td><td>34637</td><td>406516</td><td>38013</td><td>-</td><td>38013</td><td>32222</td><td>195203</td><td>106441</td><td>301644</td><td>74637</td><td>446516</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">17</td>
+                      <td class="text-left stickyCol2">Dindori</td>
+
+                      <td>1989</td><td>-</td><td>1989</td><td>18</td><td>30</td><td>684</td><td>714</td><td>2073</td><td>4794</td><td>1989</td><td>-</td><td>1989</td><td>18</td><td>30</td><td>684</td><td>714</td><td>2107</td><td>4828</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">18</td>
+                      <td class="text-left stickyCol2">Guna</td>
+
+                      <td>16986</td><td>-</td><td>16986</td><td>4738</td><td>181721</td><td>76538</td><td>258259</td><td>35334</td><td>315317</td><td>16986</td><td>-</td><td>16986</td><td>4738</td><td>181788</td><td>76538</td><td>258326</td><td>35334</td><td>315384</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">19</td>
+                      <td class="text-left stickyCol2">Gwalior</td>
+
+                      <td>84819</td><td>-</td><td>84819</td><td>409</td><td>57935</td><td>2940</td><td>60875</td><td>4980</td><td>151083</td><td>111585</td><td>-</td><td>111585</td><td>409</td><td>74437</td><td>2940</td><td>77377</td><td>5033</td><td>194404</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">20</td>
+                      <td class="text-left stickyCol2">Harda</td>
+
+                      <td>131356</td><td>-</td><td>131356</td><td>1022</td><td>30087</td><td>24078</td><td>54165</td><td>10265</td><td>196808</td><td>131356</td><td>-</td><td>131356</td><td>1022</td><td>30087</td><td>24078</td><td>54165</td><td>10265</td><td>196808</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">21</td>
+                      <td class="text-left stickyCol2">Hoshangabad</td>
+
+                      <td>156305</td><td>-</td><td>156305</td><td>2990</td><td>10443</td><td>11312</td><td>21755</td><td>5554</td><td>186604</td><td>185922</td><td>-</td><td>185922</td><td>2990</td><td>263068</td><td>71364</td><td>334432</td><td>16149</td><td>539493</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">22</td>
+                      <td class="text-left stickyCol2">Indore</td>
+
+                      <td>474</td><td>-</td><td>474</td><td>6650</td><td>198466</td><td>16806</td><td>215272</td><td>20106</td><td>242502</td><td>474</td><td>-</td><td>474</td><td>6650</td><td>200097</td><td>17006</td><td>217103</td><td>20106</td><td>244333</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">23</td>
+                      <td class="text-left stickyCol2">Jabalpur</td>
+
+                      <td>62846</td><td>-</td><td>62846</td><td>1593</td><td>141602</td><td>44577</td><td>186179</td><td>26849</td><td>277467</td><td>62846</td><td>-</td><td>62846</td><td>1593</td><td>174860</td><td>48364</td><td>223224</td><td>26849</td><td>314512</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">24</td>
+                      <td class="text-left stickyCol2">Jhabua</td>
+
+                      <td>17453</td><td>-</td><td>17453</td><td>16564</td><td>3158</td><td>16634</td><td>19792</td><td>18784</td><td>72593</td><td>17679</td><td>-</td><td>17679</td><td>16595</td><td>3275</td><td>16855</td><td>20130</td><td>18899</td><td>73303</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">25</td>
+                      <td class="text-left stickyCol2">Katni</td>
+
+                      <td>14563</td><td>-</td><td>14563</td><td>2046</td><td>71226</td><td>46745</td><td>117971</td><td>59837</td><td>194417</td><td>21475</td><td>-</td><td>21475</td><td>2046</td><td>102757</td><td>74247</td><td>177004</td><td>67457</td><td>267982</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">26</td>
+                      <td class="text-left stickyCol2">Khandwa</td>
+
+                      <td>64777</td><td>-</td><td>64777</td><td>3318</td><td>38258</td><td>128187</td><td>166445</td><td>25696</td><td>260236</td><td>64777</td><td>-</td><td>64777</td><td>3318</td><td>38258</td><td>128187</td><td>166445</td><td>25696</td><td>260236</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">27</td>
+                      <td class="text-left stickyCol2">Khargone</td>
+
+                      <td>57566</td><td>-</td><td>57566</td><td>2929</td><td>56766</td><td>141356</td><td>198122</td><td>51182</td><td>309799</td><td>95943</td><td>-</td><td>95943</td><td>4881</td><td>94610</td><td>235594</td><td>330204</td><td>85307</td><td>516335</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">28</td>
+                      <td class="text-left stickyCol2">Mandla</td>
+
+                      <td>36886</td><td>-</td><td>36886</td><td>2890</td><td>842</td><td>15313</td><td>16155</td><td>8983</td><td>64914</td><td>36886</td><td>-</td><td>36886</td><td>2890</td><td>842</td><td>15313</td><td>16155</td><td>8983</td><td>64914</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">29</td>
+                      <td class="text-left stickyCol2">Mandsaur</td>
+
+                      <td>3783</td><td>-</td><td>3783</td><td>4028</td><td>27327</td><td>231754</td><td>259081</td><td>31380</td><td>298272</td><td>3783</td><td>-</td><td>3783</td><td>4028</td><td>27327</td><td>231754</td><td>259081</td><td>31380</td><td>298272</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">30</td>
+                      <td class="text-left stickyCol2">Morena</td>
+
+                      <td>101194</td><td>-</td><td>101194</td><td>-</td><td>101391</td><td>35032</td><td>136423</td><td>1259</td><td>238876</td><td>109503</td><td>-</td><td>109503</td><td>-</td><td>106184</td><td>37751</td><td>143935</td><td>1259</td><td>254697</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">31</td>
+                      <td class="text-left stickyCol2">Narsinghpur</td>
+
+                      <td>8880</td><td>-</td><td>8880</td><td>6</td><td>234923</td><td>31927</td><td>266850</td><td>17644</td><td>293380</td><td>8880</td><td>-</td><td>8880</td><td>6</td><td>273432</td><td>37060</td><td>310492</td><td>19250</td><td>338628</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">32</td>
+                      <td class="text-left stickyCol2">Neemuch</td>
+
+                      <td>6856</td><td>-</td><td>6856</td><td>1990</td><td>44786</td><td>91406</td><td>136192</td><td>6754</td><td>151792</td><td>6856</td><td>-</td><td>6856</td><td>1990</td><td>45049</td><td>91570</td><td>136619</td><td>6754</td><td>152219</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">33</td>
+                      <td class="text-left stickyCol2">Niwari</td>
+
+                      <td>9081</td><td>-</td><td>9081</td><td>-</td><td>13196</td><td>44827</td><td>58023</td><td>2146</td><td>69250</td><td>10628</td><td>-</td><td>10628</td><td>-</td><td>16063</td><td>53394</td><td>69457</td><td>3435</td><td>83520</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">34</td>
+                      <td class="text-left stickyCol2">Panna</td>
+
+                      <td>8443</td><td>-</td><td>8443</td><td>8443</td><td>33762</td><td>16886</td><td>50648</td><td>101307</td><td>168841</td><td>8443</td><td>-</td><td>8443</td><td>8443</td><td>33762</td><td>16886</td><td>50648</td><td>101307</td><td>168841</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">35</td>
+                      <td class="text-left stickyCol2">Raisen</td>
+
+                      <td>135857</td><td>-</td><td>135857</td><td>7194</td><td>252410</td><td>52266</td><td>304676</td><td>59469</td><td>507196</td><td>135857</td><td>-</td><td>135857</td><td>7194</td><td>252410</td><td>52266</td><td>304676</td><td>59469</td><td>507196</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">36</td>
+                      <td class="text-left stickyCol2">Rajgarh</td>
+
+                      <td>5637</td><td>-</td><td>5637</td><td>16541</td><td>72372</td><td>263102</td><td>335474</td><td>22669</td><td>380321</td><td>5637</td><td>-</td><td>5637</td><td>16541</td><td>72372</td><td>263102</td><td>335474</td><td>22669</td><td>380321</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">37</td>
+                      <td class="text-left stickyCol2">Ratlam</td>
+
+                      <td>8956</td><td>-</td><td>8956</td><td>14816</td><td>112983</td><td>90840</td><td>203823</td><td>39431</td><td>267026</td><td>8956</td><td>-</td><td>8956</td><td>14816</td><td>113283</td><td>90840</td><td>204123</td><td>39431</td><td>267326</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">38</td>
+                      <td class="text-left stickyCol2">Rewa</td>
+
+                      <td>89496</td><td>-</td><td>89496</td><td>1057</td><td>50631</td><td>10288</td><td>60919</td><td>12709</td><td>164181</td><td>89496</td><td>-</td><td>89496</td><td>1057</td><td>110172</td><td>26309</td><td>136481</td><td>12709</td><td>239743</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">39</td>
+                      <td class="text-left stickyCol2">Sagar</td>
+
+                      <td>13482</td><td>-</td><td>13482</td><td>18729</td><td>86632</td><td>211122</td><td>297754</td><td>75992</td><td>405957</td><td>13482</td><td>-</td><td>13482</td><td>18729</td><td>86632</td><td>211122</td><td>297754</td><td>75992</td><td>405957</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">40</td>
+                      <td class="text-left stickyCol2">Satna</td>
+
+                      <td>20804</td><td>-</td><td>20804</td><td>2796</td><td>224402</td><td>26326</td><td>250728</td><td>20875</td><td>295203</td><td>20804</td><td>-</td><td>20804</td><td>2796</td><td>224402</td><td>26326</td><td>250728</td><td>20875</td><td>295203</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">41</td>
+                      <td class="text-left stickyCol2">Sehore</td>
+
+                      <td>67331</td><td>-</td><td>67331</td><td>26113</td><td>130102</td><td>103542</td><td>233644</td><td>36419</td><td>363507</td><td>67331</td><td>-</td><td>67331</td><td>26113</td><td>155952</td><td>132540</td><td>288492</td><td>39670</td><td>421606</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">42</td>
+                      <td class="text-left stickyCol2">Seoni</td>
+
+                      <td>11484</td><td>-</td><td>11484</td><td>9175</td><td>38553</td><td>47872</td><td>86425</td><td>22309</td><td>129393</td><td>114484</td><td>-</td><td>114484</td><td>9175</td><td>38553</td><td>47872</td><td>86425</td><td>22309</td><td>232393</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">43</td>
+                      <td class="text-left stickyCol2">Shahdol</td>
+
+                      <td>2042</td><td>-</td><td>2042</td><td>308</td><td>1319</td><td>507</td><td>1826</td><td>664</td><td>4840</td><td>13950</td><td>-</td><td>13950</td><td>1021</td><td>15701</td><td>6047</td><td>21748</td><td>15213</td><td>51932</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">44</td>
+                      <td class="text-left stickyCol2">Shajapur</td>
+
+                      <td>2861</td><td>-</td><td>2861</td><td>9404</td><td>129746</td><td>91185</td><td>220931</td><td>27115</td><td>260311</td><td>2861</td><td>-</td><td>2861</td><td>9404</td><td>132497</td><td>91185</td><td>223682</td><td>27115</td><td>263062</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">45</td>
+                      <td class="text-left stickyCol2">Sheopur</td>
+
+                      <td>57854</td><td>-</td><td>57854</td><td>666</td><td>65705</td><td>9245</td><td>74950</td><td>19032</td><td>152502</td><td>57854</td><td>-</td><td>57854</td><td>666</td><td>98553</td><td>9245</td><td>107798</td><td>19032</td><td>185350</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">46</td>
+                      <td class="text-left stickyCol2">Shivpuri</td>
+
+                      <td>73268</td><td>-</td><td>73268</td><td>22584</td><td>135888</td><td>117948</td><td>253836</td><td>39681</td><td>389369</td><td>100766</td><td>-</td><td>100766</td><td>22584</td><td>141319</td><td>118861</td><td>260180</td><td>39967</td><td>423497</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">47</td>
+                      <td class="text-left stickyCol2">Sidhi</td>
+
+                      <td>26943</td><td>-</td><td>26943</td><td>2866</td><td>17792</td><td>12022</td><td>29814</td><td>6707</td><td>66330</td><td>26943</td><td>-</td><td>26943</td><td>2866</td><td>44505</td><td>12022</td><td>56527</td><td>7509</td><td>93845</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">48</td>
+                      <td class="text-left stickyCol2">Singrauli</td>
+
+                      <td>5566</td><td>-</td><td>5566</td><td>846</td><td>10792</td><td>14278</td><td>25070</td><td>7811</td><td>39293</td><td>5583</td><td>-</td><td>5583</td><td>846</td><td>13027</td><td>21492</td><td>34519</td><td>7811</td><td>48759</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">49</td>
+                      <td class="text-left stickyCol2">Tikamgarh</td>
+
+                      <td>9666</td><td>-</td><td>9666</td><td>10586</td><td>27230</td><td>119035</td><td>146265</td><td>10746</td><td>177263</td><td>9666</td><td>-</td><td>9666</td><td>10586</td><td>27230</td><td>133622</td><td>160852</td><td>23358</td><td>204462</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">50</td>
+                      <td class="text-left stickyCol2">Ujjain</td>
+
+                      <td>4254</td><td>-</td><td>4254</td><td>6684</td><td>377373</td><td>48011</td><td>425384</td><td>17838</td><td>454160</td><td>4254</td><td>-</td><td>4254</td><td>6684</td><td>377373</td><td>48011</td><td>425384</td><td>17838</td><td>454160</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">51</td>
+                      <td class="text-left stickyCol2">Umaria</td>
+
+                      <td>5734</td><td>-</td><td>5734</td><td>1100</td><td>19948</td><td>9705</td><td>29653</td><td>22245</td><td>58732</td><td>5734</td><td>-</td><td>5734</td><td>1100</td><td>19948</td><td>9705</td><td>29653</td><td>22245</td><td>58732</td>
+
+
+                  </tr>
+                                    <tr>
+                    <td class="stickyCol1">52</td>
+                      <td class="text-left stickyCol2">Vidisha</td>
+
+                      <td>76897</td><td>-</td><td>76897</td><td>16212</td><td>148357</td><td>83523</td><td>231880</td><td>141320</td><td>466309</td><td>76897</td><td>-</td><td>76897</td><td>16212</td><td>148357</td><td>83523</td><td>231880</td><td>141320</td><td>466309</td>
+
+
+                  </tr>
+                  
+                <tr>
+
+                    <th colspan="2" class="stickyCol3"><b>Total </b></th>
+
+                    <th>1916902</th><th></th><th>1916902</th><th>345716</th><th>4318244</th><th>3399573</th><th>7717817</th><th>1368452</th><th>11348887</th><th>2194515</th><th></th><th>2194515</th><th>351104</th><th>4941479</th><th>3701109</th><th>8642588</th><th>1495389</th><th>12683596</th>
+
+
+                </tr>
+              </tbody>
+                
+
+
+
+        </table>
